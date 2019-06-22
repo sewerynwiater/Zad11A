@@ -5,8 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>JAVALUB15</groupId>
-    <artifactId>Zad11A</artifactId>
+    <artifactId>exercises</artifactId>
     <version>1.0-SNAPSHOT</version>
+
 
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
@@ -23,7 +24,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
@@ -55,7 +55,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.sda.exercises.Main</mainClass>
+                            <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
