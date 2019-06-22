@@ -55,7 +55,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.sda.excercises.Main</mainClass>
+                            <mainClass>com.sda.exercises.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
