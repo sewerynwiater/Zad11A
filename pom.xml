@@ -55,7 +55,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.pl.sda.Zad11.MainDraw</mainClass>
+                            <mainClass>com.sda.exercises.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
