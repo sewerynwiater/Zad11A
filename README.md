@@ -1,0 +1,2 @@
+# Zad11A
+Gwaizdkowanie
