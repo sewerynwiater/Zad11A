@@ -1,2 +1,3 @@
 # Zad11A
-Gwaizdkowanie
+Gwiazdkowanie, robi linię tak długą jak poda **użytkownik**
+
